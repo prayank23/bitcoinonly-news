@@ -38,5 +38,5 @@ plugins:
  - liquid-md5
 
 # Replaces the default avatar provider (gravatar)
-avatar_source: github
-github_username: prayank23
+# avatar_source: github
+# github_username: prayank23
