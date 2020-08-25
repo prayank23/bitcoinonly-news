@@ -1,13 +1,11 @@
-title: dash
-author: GitHub User
-email: miguel-gonzalez@gmx.de
+title: Bitcoin Only Articles
+author: Prayank
+email: prayank@tutanota.de
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-show_excerpts: false # set to true to show excerpts on the homepage
+  News, Research, Tutorials, etc.
+show_excerpts: true # set to true to show excerpts on the homepage
 
-paginate: 1
+paginate: 5
 paginate_path: "/blog/page:num/"
 
 tag_permalink_style: pretty
@@ -19,21 +17,14 @@ tag_page_dir: tag
 dash:
   date_format: "%b %-d, %Y"
 
-  disqus:
-    shortname: bitbrain-github-io
+  
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/BitcoinOnly_IN
       icon: twitter-square
-      color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
-      color: red
-    - url: https://github.com/bitbrain
-      icon: github-square
-      color: purple
+      color: yellow
 
   show_author: true
 
@@ -45,8 +36,7 @@ plugins:
  - jekyll-seo-tag
  - jekyll-paginate
  - liquid-md5
- - jekyll/tagging
 
 # Replaces the default avatar provider (gravatar)
-#avatar_source: github
-#github_username: bitbrain
+avatar_source: github
+github_username: prayank23
