@@ -3,7 +3,7 @@
 
 ## Contributing
 
-Fork repositry, create a new branch, Add a file in the _posts_ directory that follows the convention YYYY-MM-DD-name-of-post.ext, create pull request and mention a [Liquid](https://liquid.net/) address in the details.
+Fork repositry, create a new branch, add a file in the _posts_ directory that follows the convention YYYY-MM-DD-name-of-post.ext, create pull request and mention a [Liquid](https://liquid.net/) address in the details.
 
 > Post will be reviewed and shared on [website](https://news.bitcoinonly.in) if it looks okay.
 
